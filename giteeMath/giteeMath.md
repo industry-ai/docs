@@ -1,15 +1,15 @@
-# gitee flavor Markdown Math input
+Ôªø# gitee flavor Markdown Math input
 
 <https://zhuanlan.zhihu.com/p/95886235>
 
 ***
 
-## 1 —˘ Ω
+## 1 Ê†∑Âºè
 
 
-### 1.1 ªª–– \\\\ , ø’∏Ò \\:
+### 1.1 Êç¢Ë°å \\\\ , Á©∫Ê†º \\:
 
-$ ªª–– \\ followed\space by\: a\: space \:–°√˜ $
+$ Êç¢Ë°å \\ followed\space by\\: a\\: space \\: someone $
 
 
 ## 4. Equation and Equation Number
