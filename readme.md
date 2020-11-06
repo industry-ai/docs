@@ -12,7 +12,11 @@
 
 ## [3. CAN 总线配置](environment/CAN.md)
 
-## 4. 如何同时将仓库同步到 gitee 和 github
+## [4. 在 gitee 的 markdown 中输入数学符号](giteeMath/giteeMath.md)
+
+## 5. 如何同时将仓库同步到 gitee 和 github
 
 [参见 gitee 上的方法](https://gitee.com/wuhanuniversity/win-principle-2020/blob/master/git/gitee_n_github.md)
+
+
 
