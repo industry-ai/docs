@@ -4,6 +4,26 @@
 
 ***
 
+## 1 样式
+
+
+### 1.1 换行 \\\\ , 空格 \\:
+
+$ 换行 \\ followed\space by\: a\: space \:小明 $
+
+
+## 4. Equation and Equation Number
+
+$$
+\begin{equation}
+E_{\tau \sim p_{\theta}(\tau)}[R(\tau)]. \tag{1}
+\end{equation}
+$$
+
+$$
+E_{\tau \sim p_{\theta}(\tau)}[R(\tau)]. \tag{1}
+$$
+
 
 ## 5. color
 
