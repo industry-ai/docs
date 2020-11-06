@@ -9,7 +9,7 @@
 
 ### 1.1 换行 \\\\ , 空格 \\:
 
-$ 换行 \\ followed\space by\: a\: space \\: someone $
+$ 换行 \\ followed\space b y : a\: space \\: someone $
 
 
 ## 4. Equation and Equation Number
