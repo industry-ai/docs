@@ -6,6 +6,10 @@
 
 ## 1 样式
 
+testing
+$$
+\mathbb{E}_{\tau \sim p_{\theta}(\tau)}[R(\tau)]. \tag{1.1}
+$$
 
 ### 1.1 数学态、独立数学态
 
@@ -87,8 +91,18 @@ $ \frac{\text{d}x}{\text{d}y} $
 $ \lim_{a \rightarrow b} $
 
 
+## 3 Mathematical Symbols
 
-## 4. Equation and Equation Number
+### 3.1 Sets
+
+$\emptyset$
+$\in$ $\notin$ $\subset$ $\supset$ $\subseteq$ $\nsubseteq$ $\nsupseteq$ $\nsubseteqq$ 
+$\nsupseteqq$ $\subsetneq$ $\supsetneq$ $\subsetneqq$ $\supsetneqq$ $\varsubsetneq$ 
+$\varsupsetneq$ $\varsubsetneqq$ $\varsupsetneqq$ $\bigcap$ $\bigcup$ $\bigvee$ $\bigwedge$ 
+$\biguplus$ $\bigsqcup$ $\Subset$ $\Supset$ $\subseteqq$ $\supseteqq$ $\sqsubset$ $\sqsupset$
+
+
+## 4 Equation and Equation Number
 
 $$
 \begin{equation}
